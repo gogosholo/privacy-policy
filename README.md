@@ -1,6 +1,6 @@
 # Privacy Policy for Waqtiga Salaadda
 
-**Last updated:** [Current Date]
+**Last updated:** 2025-07-22
 
 ## About This App
 Waqtiga Salaadda ("Prayer Times") is a mobile application that provides accurate Islamic prayer times based on your location. This privacy policy explains how we handle your information.
