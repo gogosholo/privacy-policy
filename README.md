@@ -74,7 +74,7 @@ This app uses:
 
 If you have any questions about this privacy policy, please contact us at:
 
-- **Email:** [your-email@domain.com]
+- **Email:** ahmedoogle11@gmail.com
 - **Website:** oogle.tech
 - **Developer:** oogle.tech
 
